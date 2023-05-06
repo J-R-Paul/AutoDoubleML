@@ -3,6 +3,7 @@ Automated Double Machine Learning
 
 
 ## Outline
+```
 autodoubleml/
 ├── autodoubleml/
 │   ├── __init__.py
@@ -13,3 +14,4 @@ autodoubleml/
 ├── setup.py
 ├── README.md
 └── .gitignore
+```
